@@ -19,6 +19,8 @@ module.exports = {
     twilioNumber: '+18622274198',
     // twilioNumber: process.env.'+18622274198',
 
+    testNumber: '+ '  //<--Input number here
+
     // The port your web application will run on
     port: process.env.PORT || 8008
 };
